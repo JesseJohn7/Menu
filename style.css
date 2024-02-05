@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-color: lightpink;
+    margin-top: 20px;
+}
+
+.image1{
+    width: 470px;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.container{
+    height: auto;
+    width: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    
+
+}
+
+h1{
+    font-size: 33px;
+    padding-top: 10px;
+    font-weight: 300;
+    margin-left: 20px;
+    font-family: young serif ;
+}
+
+.firstp{
+    font-size: 11px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-family:sans-serif;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+ul li{
+    list-style: inside;
+    font-size: 14px;
+  
+    
+}
+
+h2{
+    font-size: 20px;
+    color: palevioletred;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.prep{
+    padding: 50px;
+    background-color: rgb(255, 247, 249);
+    margin-top: 20px;
+}
+
+
+.list2{
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+
+
+
+.secondp{
+    color: rgb(126, 35, 35);
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.thirdp{
+    color: rgb(126, 35, 35);
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+ol li{
+    list-style: inside;
+    list-style-type: decimal;
+    font-size: 14px;
+}
+
+ol{
+    margin-left: 10px;
+    line-height: 2;
+}
+
+span{
+    font-weight: 700;
+    color: rgb(126, 35, 35);
+}
+
+.headlast{
+    color: rgb(126, 35, 35);
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 10px; 
+}
+
+.lastp{
+    margin-left: 20px;
+    width: 650px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+
+
+.last li{
+    list-style: none;
+    margin-left: 70px;
+}
+
+.wei1{
+    text-align: center;
+    margin-left: 105px;
+    color: rgb(126, 35, 35);
+}
+
+.wei2{
+    text-align: center;
+    margin-left: 120px;
+    color: rgb(126, 35, 35);
+}
+
+.wei3{
+    text-align: center;
+    margin-left: 110px;
+    color: rgb(126, 35, 35);
+}
+
+.wei4{
+    text-align: center;
+    margin-left: 135px;
+    color: rgb(126, 35, 35);
+}
+
+.ca4{
+    margin-top: 10px;
+}
+
+.ca3{
+    margin-top: 8px;
+}
+
+.ca2{
+    margin-top: 8px;
+}
